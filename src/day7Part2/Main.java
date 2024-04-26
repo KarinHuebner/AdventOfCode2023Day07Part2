@@ -1,6 +1,6 @@
 package day7Part2;
 /**
- * Problem Descripition Part1: (LINK)
+ * Problem description Part1: https://adventofcode.com/2023/day/7
  * 
  * in contrast to Part1, here in Part2 the 
  * Card-Label 'J' is interpreted as a 'Joker'
